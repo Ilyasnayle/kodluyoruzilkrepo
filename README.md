@@ -6,6 +6,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 ----
 ### Installiation
 ----
+```https://github.com/Ilyasnayle/kodluyoruzilkrepo.git```
 ### Usage 
 ----
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
